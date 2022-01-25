@@ -1,3 +1,15 @@
-.table-area{
-    border: 1;
+.onetofive{
+   background-image: url(../assets/EnglishForToday1.jpg);
+   float: left;
+   width: 1920px;  
+   border: 2px solid black;
+   background-repeat: no-repeat;
+   width: device-width;
+
+
+}
+body{
+    
+    
+    
 }
